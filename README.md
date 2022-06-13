@@ -1,7 +1,7 @@
 # devops-mercurianos-volume-1
 
 > Pipeline (CI/CD) automatizado de 02 aplicações em uma Cloud pública
-
+**DevOps, cultura e ferramentas**
 ## Projetos
 
 - API: retorna uma mensagem
